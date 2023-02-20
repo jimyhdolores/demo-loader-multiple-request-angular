@@ -24,3 +24,23 @@ Luego agregaran el modulo **NgxUiLoaderModule** dentro del modulo principal de s
 })
 export class AppModule {}
 ```
+
+Si les gusta el video compartan y suscribanse.
+
+Pueden escribirme si tiene dudas chikis, gracias por su apoyo.🤗
+
+Link del video:
+
+📤https://youtu.be/VaoRk9nd-0w
+
+Suscríbete a mi canal 😎
+📤https://www.youtube.com/c/LogiDev
+
+**Sígueme en mis redes:**
+👉Facebook : https://facebook.com/LogiDev25  
+búscame como: @LogiDev25  
+👉Instagram: https://instagram.com/jimydolores/  
+búscame como: @jimydolores  
+👉Twitter: https://twitter.com/jimyHDolores  
+búscame como: @jimyHDolores  
+👉LinkedIn:https://linkedin.com/in/jimyhuachodolores/
